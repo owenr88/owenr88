@@ -1,4 +1,12 @@
-## Hi there 👋
+#### Hey, I’m Owen 👋
+
+#### I’m the Co-founder and Chief Tech Nerd at [Big Lemon](https://github.com/biglemonco), among other things.
+
+#### I believe in purpose-driven tech, and using our clever abilities to do better.
+
+[owenrichards.dev](https://owenrichards.dev)
+
+---
 
 <!--
 **owenr88/owenr88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
